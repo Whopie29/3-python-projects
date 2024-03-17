@@ -1,0 +1,34 @@
+AI Projects
+This repository contains three AI projects:
+
+Chatbot with Rule-Based Responses
+Movie Recommendation System
+Tic-Tac-Toe Game
+Each project serves a different purpose and demonstrates various aspects of artificial intelligence and machine learning.
+
+1. Chatbot with Rule-Based Responses
+This project implements a chatbot that responds to user queries using a set of predefined rules. The chatbot analyzes input text and matches it against patterns to generate appropriate responses. It provides a basic yet functional conversational interface.
+
+Features
+Rule-based response generation
+Pattern matching for understanding user queries
+Basic conversation flow handling
+2. Movie Recommendation System
+The movie recommendation system utilizes machine learning techniques to recommend movies to users based on their preferences and past interactions. It employs collaborative filtering or content-based filtering methods to generate personalized recommendations.
+
+Features
+Recommendation generation based on user preferences
+Collaborative filtering or content-based filtering algorithms
+Personalized movie suggestions
+3. Tic-Tac-Toe Game
+The Tic-Tac-Toe game is a classic implementation of the popular game. It allows users to play against an AI opponent, making strategic moves to win the game. The AI opponent employs algorithms to make intelligent decisions and provide a challenging gaming experience.
+
+Features
+Player vs. AI gameplay
+Implementation of minimax algorithm for AI decision-making
+Interactive user interface for gameplay
+Usage
+Each project in this repository can be individually cloned and executed. Follow the instructions provided in the respective project directories to set up and run the projects.
+
+Contributing
+Contributions to enhance existing projects or add new features are welcome! If you have any ideas, bug fixes, or improvements, feel free to submit a pull request or open an issue.
